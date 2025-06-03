@@ -48,3 +48,11 @@ Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> </p>
 Tools & Platforms
 <p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> 
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kerelus-Elia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kerelus-Elia&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
