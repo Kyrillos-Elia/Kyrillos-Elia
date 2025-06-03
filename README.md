@@ -1,65 +1,50 @@
-<!-- Header Image -->
+<h1 align="center">Hi, I'm Kerelus Elia 👋</h1>
+<h3 align="center">Web Developer | Computer Science Student | Passionate Learner</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerelus/kerelus/main/assets/header_kerelus.png" alt="Kerelus Elia | Web Developer" width="100%">
+  <a href="mailto:popk5398@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-popk5398@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kerelus-ayoub/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kerelus%20Elia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👋 Hello Every One, I'm **Kerelus Elia**
+## 🚀 About Me
 
-🧑‍💻 A passionate **Web Developer** from **Egypt** specialized in:
+I'm a Computer Science student at Ain Shams University with a strong foundation in programming and problem-solving.  
+I'm highly motivated to become a skilled software engineer and specialize in backend development.  
+I’m constantly learning and building small projects to apply my knowledge in real-world scenarios.
 
-- HTML, CSS, JavaScript
-- TypeScript & Node.js
-- Front-End & Back-End projects
-- Building clean, functional web applications
-
----
-
-### 🚀 About Me
-
-- 🎓 I'm currently studying Computer Science at Ain Shams University.
-- 🧠 Self-learner with strong interest in web technologies & backend systems.
-- 🌱 I’m always improving my skills, especially with TypeScript and server-side tools.
-- 💬 Ask me anything related to web development — I’d love to help!
+I believe in writing clean, readable code and developing scalable and maintainable software.  
+I enjoy learning about how things work under the hood and aim to understand every concept I use.
 
 ---
 
-### 🛠️ Languages & Tools
+## 🧠 Technical Skills
 
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
+```cpp
+class KerelusElia {
+  string university = "Ain Shams University";
+  list<string> coreSkills = {
+    "C++",
+    "OOP (Object-Oriented Programming)",
+    "Data Structures & Algorithms",
+    "SQL and Relational Databases",
+    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js)"
+  };
+};
+```
+## 🛠️ Tools & Technologies
 
----
-
-### 📊 GitHub Stats
-
-| <img src="https://github-readme-stats.vercel.app/api?username=kerelus&show_icons=true&theme=radical" alt="Kerelus' GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerelus&layout=compact&theme=radical" alt="Kerelus' Top Languages" /> |
-|---|---|
-
----
-
-### 📌 Featured Projects
-
-<a href="https://github.com/kerelus/car-dealership-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=car-dealership-app&theme=radical" />
-</a>
-<a href="https://github.com/kerelus/nursing-home-db">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=nursing-home-db&theme=radical" />
-</a>
-
----
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:popk5398@gmail.com"><img src="https://img.icons8.com/fluency/30/gmail-new.png" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/kerelus-ayoub/"><img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kerelus.kerelus" alt="Visitors badge" />
-</p>
+Programming Languages
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /> <img src="https://img.shields.io/badge/OOP-FF7800?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" title="Object-Oriented Programming" /> <img src="https://img.shields.io/badge/Data_Structures-009688?style=for-the-badge&logo=datastructures&logoColor=white" alt="Data Structures" title="Data Structures & Algorithms" /> </p>
+Web Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> </p>
+Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> </p>
+Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> 
