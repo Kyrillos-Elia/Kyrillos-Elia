@@ -1,54 +1,65 @@
+<!-- Header Image -->
 <p align="center">
-  <a href="#"><img width="80%" alt="Hello, I'm Kerelus Elia Ayoub – Web Developer" src="[./assets/gh-readme-header.png](https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_pounded.gif?raw=true)" /></a>
+  <img src="https://raw.githubusercontent.com/kerelus/kerelus/main/assets/header_kerelus.png" alt="Kerelus Elia Ayoub | Web Developer" width="100%">
 </p>
 
-<br />
+---
 
-I'm a passionate and self-taught Web Developer from Egypt 🇪🇬, specializing in building modern, responsive, and high-performance web applications using **HTML**, **CSS**, **JavaScript**, **TypeScript**, and **Node.js**.
+### 👋 Hello there, I'm **Kerelus Elia Ayoub**
+
+🧑‍💻 A passionate **Web Developer** from **Egypt** specialized in:
+
+- HTML, CSS, JavaScript
+- TypeScript & Node.js
+- Front-End & Back-End projects
+- Building clean, functional web applications
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 🔭 Currently working on personal and open-source projects to enhance my backend and frontend skills  
-- 💡 Passionate about full-stack development and constantly exploring new technologies  
-- 💬 Ask me anything or connect via [GitHub Issues](https://github.com/Kerelus-Elia/your-repo/issues)  
-- 🌱 Always learning and growing as a developer  
-- 📫 How to reach me: `popk5398@gmail.com`
+- 🎓 I'm currently studying Computer Science at Ain Shams University.
+- 🧠 Self-learner with strong interest in web technologies & backend systems.
+- 🌱 I’m always improving my skills, especially with TypeScript and server-side tools.
+- 💬 Ask me anything related to web development — I’d love to help!
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
 
 ---
 
 ### 📊 GitHub Stats
 
-| <a href="https://github.com/kerelus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kerelus&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Kerelus's GitHub stats" /></a> | <a href="https://github.com/kerelus/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerelus&layout=compact&theme=radical&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=kerelus&show_icons=true&theme=radical" alt="Kerelus' GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerelus&layout=compact&theme=radical" alt="Kerelus' Top Languages" /> |
+|---|---|
 
 ---
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/kerelus/car-store-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=car-store-app&theme=radical" />
+<a href="https://github.com/kerelus/car-dealership-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=car-dealership-app&theme=radical" />
 </a>
-<a href="https://github.com/kerelus/nursing-home-database">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=nursing-home-database&theme=radical" />
+<a href="https://github.com/kerelus/nursing-home-db">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerelus&repo=nursing-home-db&theme=radical" />
 </a>
 
 ---
 
-<a href="https://www.linkedin.com/in/kerelus">
-  <img align="right" alt="Kerelus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-</a>
-<a href="mailto:popk5398@gmail.com">
-  <img align="right" alt="Kerelus | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" />
-</a>
+### 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:popk5398@gmail.com"><img src="https://img.icons8.com/fluency/30/gmail-new.png" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/kerelus-ayoub/"><img src="https://img.icons8.com/fluency/30/linkedin.png" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kerelus.kerelus" alt="Visitors badge" />
+</p>
