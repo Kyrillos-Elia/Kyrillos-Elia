@@ -1,11 +1,11 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kerelus/kerelus/main/assets/header_kerelus.png" alt="Kerelus Elia Ayoub | Web Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/kerelus/kerelus/main/assets/header_kerelus.png" alt="Kerelus Elia | Web Developer" width="100%">
 </p>
 
 ---
 
-### 👋 Hello there, I'm **Kerelus Elia Ayoub**
+### 👋 Hello Every One, I'm **Kerelus Elia**
 
 🧑‍💻 A passionate **Web Developer** from **Egypt** specialized in:
 
