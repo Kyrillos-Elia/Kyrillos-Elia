@@ -28,6 +28,7 @@ I enjoy learning about how things work under the hood and aim to understand ever
 ```cpp
 class KerelusElia {
   string university = "Ain Shams University";
+  string Faculty = "Faculty of Science";
   list<string> coreSkills = {
     "C++",
     "OOP (Object-Oriented Programming)",
