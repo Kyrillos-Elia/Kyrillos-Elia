@@ -12,7 +12,7 @@ I'm a passionate and self-taught Web Developer from Egypt 🇪🇬, specializing
 
 - 🔭 Currently working on personal and open-source projects to enhance my backend and frontend skills  
 - 💡 Passionate about full-stack development and constantly exploring new technologies  
-- 💬 Ask me anything or connect via [GitHub Issues](https://github.com/your-username/your-repo/issues)  
+- 💬 Ask me anything or connect via [GitHub Issues](https://github.com/Kerelus-Elia/your-repo/issues)  
 - 🌱 Always learning and growing as a developer  
 - 📫 How to reach me: `popk5398@gmail.com`
 
