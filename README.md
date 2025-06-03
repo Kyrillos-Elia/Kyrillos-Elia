@@ -5,7 +5,7 @@
   <a href="mailto:popk5398@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-popk5398@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/kerelus-ayoub/](https://www.linkedin.com/in/kerelus-elia-56a2b1313/)">
+  <a href="https://www.linkedin.com/in/kerelus-ayoub/">
     <img src="https://img.shields.io/badge/LinkedIn-Kerelus%20Elia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
