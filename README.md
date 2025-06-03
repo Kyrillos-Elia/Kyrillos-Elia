@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img width="80%" alt="Hello, I'm Kerelus Elia Ayoub – Web Developer" src="./assets/gh-readme-header.png" /></a>
+  <a href="#"><img width="80%" alt="Hello, I'm Kerelus Elia Ayoub – Web Developer" src="[./assets/gh-readme-header.png](https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_pounded.gif?raw=true)" /></a>
 </p>
 
 <br />
