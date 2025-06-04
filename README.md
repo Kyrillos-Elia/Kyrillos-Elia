@@ -34,7 +34,7 @@ class KerelusElia {
     "OOP (Object-Oriented Programming)",
     "Data Structures & Algorithms",
     "SQL and Relational Databases",
-    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js)"
+    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js)"
   };
 };
 ```
