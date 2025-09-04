@@ -33,7 +33,7 @@ class KerelusElia {
     "C++",
     "OOP (Object-Oriented Programming)",
     "Data Structures & Algorithms",
-    "SQL and Relational Databases",
+    "MySQL and Relational Databases",
     "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js)"
   };
 };
