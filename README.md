@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kerelus Elia 👋</h1>
+<h1 align="center">Hi, I'm Kyrillos Elia 👋</h1>
 <h3 align="center">Web Developer | Computer Science Student | Passionate Learner</h3>
 
 <p align="center">
