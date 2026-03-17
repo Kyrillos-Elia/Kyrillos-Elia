@@ -49,9 +49,9 @@ class KyrillosElia {
 🌐 Web Development
 <p align="left"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> </p>
 📱 Mobile & Flutter
-p align="left"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=android" alt="Android" title="Android Development" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=android" alt="Android" title="Android Development" /> </p>
 🛠️ Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter Notebook" /> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" /> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" />  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" /> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android Studio" title="Android Studio" width="40" height="40" /> </p>
 
 
 ## 📊 GitHub Stats
