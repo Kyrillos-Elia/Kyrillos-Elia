@@ -26,7 +26,7 @@ I enjoy learning about how things work under the hood and aim to understand ever
 ## 🧠 Technical Skills
 
 ```cpp
-class KerelusElia {
+class KyrillosEia {
   string university = "Ain Shams University";
   string Faculty = "Faculty of Science";
   list<string> coreSkills = {
