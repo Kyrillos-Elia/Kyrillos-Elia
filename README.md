@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kyrillos Elia 👋</h1>
-<h3 align="center">Web Developer | Computer Science Student | Passionate Learner</h3>
+<h3 align="center">Data Analyst | Computer Science Student | Passionate Learner</h3>
 
 <p align="center">
   <a href="mailto:popk5398@gmail.com">
@@ -14,41 +14,44 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at Ain Shams University with a strong foundation in programming and problem-solving.  
-I'm highly motivated to become a skilled software engineer and specialize in backend development.  
-I’m constantly learning and building small projects to apply my knowledge in real-world scenarios.
+I'm a Computer Science student at Ain Shams University
+I'm a Data Analyst / Data Science enthusiast with a strong foundation in data analysis, statistics, and problem-solving.
+I’m highly motivated to extract meaningful insights from data and help organizations make data-driven decisions.
+I constantly work on projects involving data cleaning, visualization, and predictive modeling to apply my knowledge in real-world scenarios.
 
-I believe in writing clean, readable code and developing scalable and maintainable software.  
-I enjoy learning about how things work under the hood and aim to understand every concept I use.
+I believe in writing clean, reproducible code and building scalable data pipelines.
+I enjoy exploring datasets, understanding patterns, and learning how to use advanced tools and techniques to solve complex problems.
 
 ---
 
 ## 🧠 Technical Skills
 
 ```cpp
-class KyrillosEia {
+class KyrillosElia {
   string university = "Ain Shams University";
-  string Faculty = "Faculty of Science";
+  string faculty = "Faculty of Computer Science";
   list<string> coreSkills = {
-    "C++",
-    "OOP (Object-Oriented Programming)",
-    "Data Structures & Algorithms",
-    "MySQL and Relational Databases",
-    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js)"
+    "Python (Pandas, NumPy, Matplotlib, Seaborn)",
+    "SQL & Relational Databases",
+    "Data Analysis & Visualization",
+    "Machine Learning Basics",
+    "Flutter & Dart for Mobile Apps",
+    "Web Technologies (HTML, CSS, JavaScript, TypeScript, Node.js, Express.js)",
+    "Object-Oriented Programming (OOP)",
+    "Data Structures & Algorithms"
   };
 };
 ```
 ## 🛠️ Tools & Technologies
 
-Programming Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /> <img src="https://img.shields.io/badge/OOP-FF7800?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" title="Object-Oriented Programming" /> <img src="https://img.shields.io/badge/Data_Structures-009688?style=for-the-badge&logo=datastructures&logoColor=white" alt="Data Structures" title="Data Structures & Algorithms" /> </p>
-Web Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> </p>
-Databases
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /> </p>
-Tools & Platforms
-<p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> 
+💻 Programming & Data Analysis
+<p align="left"> <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" /> <img src="https://img.shields.io/badge/OOP-FF7800?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" title="Object-Oriented Programming" /> <img src="https://img.shields.io/badge/Data_Structures-009688?style=for-the-badge&logo=datastructures&logoColor=white" alt="Data Structures" title="Data Structures & Algorithms" /> <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /> <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" title="Pandas" /> <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" title="NumPy" /> <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" title="Matplotlib" /> <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" title="Seaborn" /> </p>
+🌐 Web Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" /> <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" /> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" /> <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> </p>
+📱 Mobile & Flutter
+p align="left"> <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" /> <img src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart" /> <img src="https://skillicons.dev/icons?i=android" alt="Android" title="Android Development" /> </p>
+🛠️ Tools & Platforms
+<p align="left"> <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /> <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" /> <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter Notebook" /> <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" /> <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /> </p>
 
 
 ## 📊 GitHub Stats
